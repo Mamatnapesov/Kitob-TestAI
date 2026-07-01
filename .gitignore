@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# PyCharm
+.idea/
+
+# Database
+data/database.db
+
+# Virtual environment archive
+.venv.zip
